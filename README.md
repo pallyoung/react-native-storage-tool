@@ -1,2 +1,2 @@
-# react-native-stroageTool
-react-native-stroageTool
+# react-native-storage-tool
+react-native-storage-tool

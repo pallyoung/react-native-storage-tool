@@ -1,0 +1,28 @@
+{
+  "name": "react-native-storage-tool",
+  "version": "0.0.1",
+  "description": "react native storage tool",
+  "main": "StroageTool.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pallyoung/react-native-storage-tool.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "storage",
+    "tool"
+  ],
+  "peerDependencies": {
+    "react-native": "*"
+  },
+  "author": "Spencer Ye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pallyoung/react-native-storage-tool/issues"
+  },
+  "homepage": "https://github.com/pallyoung/react-native-storage-tool#readme"
+}
